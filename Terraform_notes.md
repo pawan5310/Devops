@@ -1,4 +1,5 @@
 # Terraform Documentation
+[Terraform Notes-20251021151716.pdf](https://github.com/user-attachments/files/23018860/Terraform.Notes-20251021151716.pdf)
 
 ## Overview
 - **Developed by**: Hashicorp
